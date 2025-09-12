@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiao-925)](https://github.com/qiao-925/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiao-925)](https://github.com/qiao-925/github-readme-stats)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
